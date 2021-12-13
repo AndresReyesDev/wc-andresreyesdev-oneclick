@@ -1,0 +1,6 @@
+{
+    "require": {
+        "transbank/transbank-sdk": "^1.6",
+      "ext-json": "*"
+    }
+}
